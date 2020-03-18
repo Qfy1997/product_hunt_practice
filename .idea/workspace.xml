@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d622d3a-ce01-452e-9278-8820d8ca1464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products/templates/product_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/theme.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ph/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ph/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ph/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ph/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/theme.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/theme.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/theme.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <state relative-caret-position="75">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -52,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/products/templates/product_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="195">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -78,9 +74,9 @@
       <list>
         <option value="$PROJECT_DIR$/ph/urls.py" />
         <option value="$PROJECT_DIR$/products/views.py" />
-        <option value="$PROJECT_DIR$/templates/theme.html" />
         <option value="$PROJECT_DIR$/ph/settings.py" />
         <option value="$PROJECT_DIR$/products/templates/product_list.html" />
+        <option value="$PROJECT_DIR$/templates/theme.html" />
       </list>
     </option>
   </component>
@@ -188,12 +184,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584520426086</updated>
-      <workItem from="1584520427289" duration="1199000" />
+      <workItem from="1584520427289" duration="1388000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1199000" />
+    <option name="totallyTimeSpent" value="1388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="123" y="68" width="1400" height="909" extended-state="0" />
@@ -240,13 +236,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/theme.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ph/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="719">
@@ -256,8 +245,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/products/templates/product_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        <state relative-caret-position="195">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/theme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
